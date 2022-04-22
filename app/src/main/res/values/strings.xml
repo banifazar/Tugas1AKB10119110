@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tugas 1 AKB 10119110</string>
+    <string name="profile_splash">PROFILE</string>
+    <string name="nim_10119110">NIM: 10119110</string>
+    <string name="nama_bani_faza_rasyadan">Nama: Bani Faza Rasyadan</string>
+    <string name="kelas_if_3">Kelas: IF-3</string>
+    <string name="deskripsi_diri_nsaya_berasal_dan_tinggal_di_kota_bandung_sampai_sekarang_tk_smp_saya_di_bpi_bandung_lalu_setelah_lulus_smp_melanjutkan_pendidikan_di_smkn_13_bandung_jurusan_rekayasa_perangkat_lunak_saat_ini_saya_sedang_menempuh_pendidikan_di_universitas_komputer_indonesia_jurusan_teknik_informatika_semester_6_cita_cita_saya_ingin_menjadi_pengusaha_dan_front_end_developer">Deskripsi Diri: \nSaya berasal dan tinggal di kota Bandung sampai sekarang. TK-SMP saya di BPI Bandung. Lalu setelah lulus SMP melanjutkan pendidikan di SMKN 13 Bandung jurusan Rekayasa Perangkat Lunak. Saat ini saya sedang menempuh pendidikan di Universitas Komputer Indonesia jurusan Teknik Informatika semester 6. Cita-cita saya ingin menjadi pengusaha dan Front-End Developer.</string>
+    <string name="pictureprofile">pictureProfile</string>
+    <string name="login_title">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="register_btn">Register</string>
+    <string name="profile">PROFILE</string>
+    <string name="logout">Logout</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="re_enter_your_password">Re-enter your Password</string>
+    <string name="register">Register</string>
+    <string name="aplikasi_komputasi_bergerak">Aplikasi Komputasi Bergerak</string>
+    <string name="tugas_1">TUGAS 1</string>
+    <string name="_10119110_if3">10119110 - IF3</string>
+    <string name="bani_faza_rasyadan">Bani Faza Rasyadan</string>
+</resources>
